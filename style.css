@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    margin: 1em 4em;
+    color: red;
+    font-family: sans-serif;
+    
+    
+    
+
+
+
+}
+
+
+.box{
+    background-color: aqua;
+    width: 10em;
+    height: 10em;
+    border-style: solid;
+    border-color: aqua;
+    font-family: sans-serif;
+
+    
+
+}
+
+.box:hover {
+    background-color: white;
+}
+
